@@ -1,0 +1,2 @@
+# norgesvaer
+Været i Norge
